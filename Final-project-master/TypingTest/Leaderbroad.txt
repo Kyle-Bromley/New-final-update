@@ -1,0 +1,5 @@
+
+WPM:2
+Accuracy: 100.0%
+WPM:2
+Accuracy: 94.44444%
